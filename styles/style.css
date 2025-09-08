@@ -50,10 +50,10 @@ body {
 .search {
     position: relative;
     display: inline-block;
-    
 }
 
 .search input {
+    background: #f0f2f5;
     width: 315px;
     height: 40px;
     padding: 8px 12px 8px 35px;
